@@ -1,7 +1,6 @@
 #!/bin/sh
 
 mkdir ../gh-pages
-mkdir ../gh-pages/
 
 # Generate Doc
 grunt jsdoc
@@ -22,5 +21,5 @@ git checkout -B gh-pages
 
 # Push generated files
 git add .
-git commit -m "API updated"
+git commit -m "Documentation updated"
 git push origin gh-pages -fq > /dev/null
