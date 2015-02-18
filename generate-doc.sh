@@ -2,7 +2,7 @@
 
 mkdir ../gh-pages
 
-tree -L 4
+ls
 cp docs/conf.json node_modules/jsdoc/
 
 # Generate Doc
