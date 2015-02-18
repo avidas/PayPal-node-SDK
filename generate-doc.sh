@@ -19,7 +19,7 @@ git config --global user.name "Travis"
 
 # Add branch
 git init
-git remote add origin https://${GH_TOKEN}@github.com/avidas/PayPal-Node-SDK.git > /dev/null
+git remote add origin https://${GH_TOKEN}@github.com/jaypatel512/PayPal-node-SDK.git > /dev/null
 git checkout -B gh-pages
 
 # Push generated files
