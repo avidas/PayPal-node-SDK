@@ -2,14 +2,14 @@
 
 mkdir ../gh-pages
 
-cp docs/conf.json ./node_modules/jsdoc/
+tree -L 4
+cp docs/conf.json node_modules/jsdoc/
 
 # Generate Doc
 grunt jsdoc
 
 # Copy Home Page from Master Branch to Gh-Pages folder
 cp -r docs/* ../gh-pages/
-
 
 cd ../gh-pages
 
