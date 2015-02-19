@@ -14,4 +14,4 @@ matrix:
     - node_js: "0.6"
 env:
   global:
-    secure: c7FbWbkL9HwrMClSTqlCdfGnJHj/bOrVvtOXBrLvk/i1bOjqNhyo1QoxHxEbFHbdQohRvMzOY2nvK2J3MxYsUVslOoUVC5pmWhjTj7Ubi998+yABkqONMsU3SIyrNtiA/NKZPloA8GljJ/l4ZFqSemsevcR6lJPBXC4Ggoa7bBg=
+    secure: DRZ5WrdkT0dWqdk9snXGqTBjlbwxaBS/m8O9YQoGgFGu8UnZ3Cuy8FymOKUCTukMxfzDRG/7srg/03Ife9IsIMYv/rQ8kRZA0OBqrWgxy6ZSyY+qtUKZjyqKKgjnmgzvZtoGJo6ZHKks/GcaWzLeWs9znZ+ZsKV2CvArxBd1Fn4=
